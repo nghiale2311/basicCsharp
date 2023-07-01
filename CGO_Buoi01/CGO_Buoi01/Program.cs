@@ -23,7 +23,7 @@ namespace CGO_Buoi01
 
             Console.WriteLine("Mời bạn nhập tên: ");
             string sHoTen = Console.ReadLine();
-            Console.WriteLine("Tên của bạn là" + sHoTen );
+            Console.WriteLine("Tên của bạn là " + sHoTen );
             Console.ReadKey(); 
         }
     }

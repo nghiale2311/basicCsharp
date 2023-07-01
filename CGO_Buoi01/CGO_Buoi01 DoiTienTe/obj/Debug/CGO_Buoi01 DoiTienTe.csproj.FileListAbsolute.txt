@@ -1,0 +1,8 @@
+D:\Github\basicCshapr\CGO_Buoi01\CGO_Buoi01 DoiTienTe\bin\Debug\CGO_Buoi01 DoiTienTe.exe.config
+D:\Github\basicCshapr\CGO_Buoi01\CGO_Buoi01 DoiTienTe\bin\Debug\CGO_Buoi01 DoiTienTe.exe
+D:\Github\basicCshapr\CGO_Buoi01\CGO_Buoi01 DoiTienTe\bin\Debug\CGO_Buoi01 DoiTienTe.pdb
+D:\Github\basicCshapr\CGO_Buoi01\CGO_Buoi01 DoiTienTe\obj\Debug\CGO_Buoi01 DoiTienTe.csproj.AssemblyReference.cache
+D:\Github\basicCshapr\CGO_Buoi01\CGO_Buoi01 DoiTienTe\obj\Debug\CGO_Buoi01 DoiTienTe.csproj.SuggestedBindingRedirects.cache
+D:\Github\basicCshapr\CGO_Buoi01\CGO_Buoi01 DoiTienTe\obj\Debug\CGO_Buoi01 DoiTienTe.csproj.CoreCompileInputs.cache
+D:\Github\basicCshapr\CGO_Buoi01\CGO_Buoi01 DoiTienTe\obj\Debug\CGO_Buoi01 DoiTienTe.exe
+D:\Github\basicCshapr\CGO_Buoi01\CGO_Buoi01 DoiTienTe\obj\Debug\CGO_Buoi01 DoiTienTe.pdb
