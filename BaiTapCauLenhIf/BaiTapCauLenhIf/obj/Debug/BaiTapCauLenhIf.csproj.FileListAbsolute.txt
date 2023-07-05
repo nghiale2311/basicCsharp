@@ -1,0 +1,8 @@
+D:\Github\basicCsharp\BaiTapCauLenhIf\BaiTapCauLenhIf\bin\Debug\BaiTapCauLenhIf.exe.config
+D:\Github\basicCsharp\BaiTapCauLenhIf\BaiTapCauLenhIf\bin\Debug\BaiTapCauLenhIf.exe
+D:\Github\basicCsharp\BaiTapCauLenhIf\BaiTapCauLenhIf\bin\Debug\BaiTapCauLenhIf.pdb
+D:\Github\basicCsharp\BaiTapCauLenhIf\BaiTapCauLenhIf\obj\Debug\BaiTapCauLenhIf.csproj.AssemblyReference.cache
+D:\Github\basicCsharp\BaiTapCauLenhIf\BaiTapCauLenhIf\obj\Debug\BaiTapCauLenhIf.csproj.SuggestedBindingRedirects.cache
+D:\Github\basicCsharp\BaiTapCauLenhIf\BaiTapCauLenhIf\obj\Debug\BaiTapCauLenhIf.csproj.CoreCompileInputs.cache
+D:\Github\basicCsharp\BaiTapCauLenhIf\BaiTapCauLenhIf\obj\Debug\BaiTapCauLenhIf.exe
+D:\Github\basicCsharp\BaiTapCauLenhIf\BaiTapCauLenhIf\obj\Debug\BaiTapCauLenhIf.pdb

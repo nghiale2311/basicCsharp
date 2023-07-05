@@ -1,0 +1,8 @@
+D:\Github\basicCsharp\CGO_Buoi02\CGO_Buoi02\obj\Debug\CGO_Buoi02.csproj.AssemblyReference.cache
+D:\Github\basicCsharp\CGO_Buoi02\CGO_Buoi02\obj\Debug\CGO_Buoi02.csproj.SuggestedBindingRedirects.cache
+D:\Github\basicCsharp\CGO_Buoi02\CGO_Buoi02\obj\Debug\CGO_Buoi02.csproj.CoreCompileInputs.cache
+D:\Github\basicCsharp\CGO_Buoi02\CGO_Buoi02\bin\Debug\CGO_Buoi02.exe.config
+D:\Github\basicCsharp\CGO_Buoi02\CGO_Buoi02\bin\Debug\CGO_Buoi02.exe
+D:\Github\basicCsharp\CGO_Buoi02\CGO_Buoi02\bin\Debug\CGO_Buoi02.pdb
+D:\Github\basicCsharp\CGO_Buoi02\CGO_Buoi02\obj\Debug\CGO_Buoi02.exe
+D:\Github\basicCsharp\CGO_Buoi02\CGO_Buoi02\obj\Debug\CGO_Buoi02.pdb
