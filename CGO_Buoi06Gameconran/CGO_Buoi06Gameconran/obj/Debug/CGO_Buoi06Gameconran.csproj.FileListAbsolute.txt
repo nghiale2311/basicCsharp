@@ -1,0 +1,8 @@
+D:\Github\basicCsharp\CGO_Buoi06Gameconran\CGO_Buoi06Gameconran\bin\Debug\CGO_Buoi06Gameconran.exe.config
+D:\Github\basicCsharp\CGO_Buoi06Gameconran\CGO_Buoi06Gameconran\bin\Debug\CGO_Buoi06Gameconran.exe
+D:\Github\basicCsharp\CGO_Buoi06Gameconran\CGO_Buoi06Gameconran\bin\Debug\CGO_Buoi06Gameconran.pdb
+D:\Github\basicCsharp\CGO_Buoi06Gameconran\CGO_Buoi06Gameconran\obj\Debug\CGO_Buoi06Gameconran.csproj.AssemblyReference.cache
+D:\Github\basicCsharp\CGO_Buoi06Gameconran\CGO_Buoi06Gameconran\obj\Debug\CGO_Buoi06Gameconran.csproj.SuggestedBindingRedirects.cache
+D:\Github\basicCsharp\CGO_Buoi06Gameconran\CGO_Buoi06Gameconran\obj\Debug\CGO_Buoi06Gameconran.csproj.CoreCompileInputs.cache
+D:\Github\basicCsharp\CGO_Buoi06Gameconran\CGO_Buoi06Gameconran\obj\Debug\CGO_Buoi06Gameconran.exe
+D:\Github\basicCsharp\CGO_Buoi06Gameconran\CGO_Buoi06Gameconran\obj\Debug\CGO_Buoi06Gameconran.pdb

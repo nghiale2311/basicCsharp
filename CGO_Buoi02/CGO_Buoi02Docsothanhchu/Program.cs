@@ -14,7 +14,6 @@ namespace CGO_Buoi02Docsothanhchu
             
      string input = Console.Readline();
     int sonhap = int.Parse(input);
-    //29 -> 0 2 9
     int donvi = sonhap % 10;			
     int hangchuc = (sonhap/10) % 10;	
     int hangtram = sonhap % 100;		
