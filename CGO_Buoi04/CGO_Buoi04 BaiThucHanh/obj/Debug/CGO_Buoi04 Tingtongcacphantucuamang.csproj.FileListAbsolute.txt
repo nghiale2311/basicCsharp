@@ -1,0 +1,3 @@
+D:\Github\basicCsharp\CGO_Buoi04\CGO_Buoi04 BaiThucHanh\obj\Debug\CGO_Buoi04 Tingtongcacphantucuamang.csproj.AssemblyReference.cache
+D:\Github\basicCsharp\CGO_Buoi04\CGO_Buoi04 BaiThucHanh\obj\Debug\CGO_Buoi04 Tingtongcacphantucuamang.csproj.SuggestedBindingRedirects.cache
+D:\Github\basicCsharp\CGO_Buoi04\CGO_Buoi04 BaiThucHanh\obj\Debug\CGO_Buoi04 Tingtongcacphantucuamang.csproj.CoreCompileInputs.cache

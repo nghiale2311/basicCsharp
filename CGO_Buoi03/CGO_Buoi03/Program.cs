@@ -11,10 +11,10 @@ namespace CGO_Buoi03
         static void Main(string[] args)
         {
             int donvi = 5;
-            for(int i =1;i <= 10;i+=2) 
+            for(int i =1; i <= 10; i+= 2) 
             {
-                int product = 5 * 1; 
-                Console.WriteLine(5 + "x" + i + "="+ product);
+                int product = donvi * i; 
+                Console.WriteLine(donvi + " x " + i + " = " + product );
             }
             Console.ReadKey();
         }

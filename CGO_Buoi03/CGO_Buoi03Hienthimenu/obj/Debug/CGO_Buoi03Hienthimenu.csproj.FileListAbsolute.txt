@@ -1,0 +1,8 @@
+D:\Github\basicCsharp\CGO_Buoi03\CGO_Buoi03Hienthimenu\bin\Debug\CGO_Buoi03Hienthimenu.exe.config
+D:\Github\basicCsharp\CGO_Buoi03\CGO_Buoi03Hienthimenu\bin\Debug\CGO_Buoi03Hienthimenu.exe
+D:\Github\basicCsharp\CGO_Buoi03\CGO_Buoi03Hienthimenu\bin\Debug\CGO_Buoi03Hienthimenu.pdb
+D:\Github\basicCsharp\CGO_Buoi03\CGO_Buoi03Hienthimenu\obj\Debug\CGO_Buoi03Hienthimenu.csproj.AssemblyReference.cache
+D:\Github\basicCsharp\CGO_Buoi03\CGO_Buoi03Hienthimenu\obj\Debug\CGO_Buoi03Hienthimenu.csproj.SuggestedBindingRedirects.cache
+D:\Github\basicCsharp\CGO_Buoi03\CGO_Buoi03Hienthimenu\obj\Debug\CGO_Buoi03Hienthimenu.csproj.CoreCompileInputs.cache
+D:\Github\basicCsharp\CGO_Buoi03\CGO_Buoi03Hienthimenu\obj\Debug\CGO_Buoi03Hienthimenu.exe
+D:\Github\basicCsharp\CGO_Buoi03\CGO_Buoi03Hienthimenu\obj\Debug\CGO_Buoi03Hienthimenu.pdb
