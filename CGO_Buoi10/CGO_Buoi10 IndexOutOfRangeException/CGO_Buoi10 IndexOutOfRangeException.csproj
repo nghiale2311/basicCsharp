@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C99460C1-049B-4176-B44A-99B1DF8926A6}</ProjectGuid>
+    <ProjectGuid>{394F4B7D-C820-4D81-84C4-C1279CF7F6C6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CGO_Buoi07_LopAnimal</RootNamespace>
-    <AssemblyName>CGO_Buoi07 LopAnimal</AssemblyName>
+    <RootNamespace>CGO_Buoi10_IndexOutOfRangeException</RootNamespace>
+    <AssemblyName>CGO_Buoi10_IndexOutOfRangeException</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
