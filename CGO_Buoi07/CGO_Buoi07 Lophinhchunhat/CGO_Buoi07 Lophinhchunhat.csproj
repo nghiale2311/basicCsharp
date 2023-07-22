@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E9511B25-E7B9-4496-8189-7E5D3F087CB3}</ProjectGuid>
+    <ProjectGuid>{3B275273-D890-4816-A46E-1A66537C8D1F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CGO_Buoi04_Timgiatri</RootNamespace>
-    <AssemblyName>CGO_Buoi04 Timgiatri</AssemblyName>
+    <RootNamespace>CGO_Buoi07_Lophinhchunhat</RootNamespace>
+    <AssemblyName>CGO_Buoi07 Lophinhchunhat</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

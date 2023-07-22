@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04", "CGO_Buoi04\CG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04 Tingtongcacphantucuamang", "CGO_Buoi04 BaiThucHanh\CGO_Buoi04 Tingtongcacphantucuamang.csproj", "{615682BD-05C9-4B3A-B9E1-1E0934EA1533}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04 Timgiatri", "CGO_Buoi04 Timgiatri\CGO_Buoi04 Timgiatri.csproj", "{E9511B25-E7B9-4496-8189-7E5D3F087CB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{615682BD-05C9-4B3A-B9E1-1E0934EA1533}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{615682BD-05C9-4B3A-B9E1-1E0934EA1533}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{615682BD-05C9-4B3A-B9E1-1E0934EA1533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9511B25-E7B9-4496-8189-7E5D3F087CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9511B25-E7B9-4496-8189-7E5D3F087CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9511B25-E7B9-4496-8189-7E5D3F087CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9511B25-E7B9-4496-8189-7E5D3F087CB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

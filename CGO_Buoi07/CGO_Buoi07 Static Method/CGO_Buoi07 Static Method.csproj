@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E9511B25-E7B9-4496-8189-7E5D3F087CB3}</ProjectGuid>
+    <ProjectGuid>{C5662808-ECE4-4F11-8883-DECF5FBC4450}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CGO_Buoi04_Timgiatri</RootNamespace>
-    <AssemblyName>CGO_Buoi04 Timgiatri</AssemblyName>
+    <RootNamespace>CGO_Buoi07_Static_Method</RootNamespace>
+    <AssemblyName>CGO_Buoi07_Static_Method</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

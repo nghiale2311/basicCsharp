@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E9511B25-E7B9-4496-8189-7E5D3F087CB3}</ProjectGuid>
+    <ProjectGuid>{C99460C1-049B-4176-B44A-99B1DF8926A6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CGO_Buoi04_Timgiatri</RootNamespace>
-    <AssemblyName>CGO_Buoi04 Timgiatri</AssemblyName>
+    <RootNamespace>CGO_Buoi07_LopAnimal</RootNamespace>
+    <AssemblyName>CGO_Buoi07_LopAnimal</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
