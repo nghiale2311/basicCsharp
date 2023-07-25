@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{394F4B7D-C820-4D81-84C4-C1279CF7F6C6}</ProjectGuid>
+    <ProjectGuid>{26E4C91B-E6E7-4ACD-8540-3AC6D20DF4A2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CGO_Buoi10_IndexOutOfRangeException</RootNamespace>
-    <AssemblyName>CGO_Buoi10 IndexOutOfRangeException</AssemblyName>
+    <RootNamespace>CGO_Buoi05_Timgiatrinhonhat</RootNamespace>
+    <AssemblyName>CGO_Buoi05 Timgiatrinhonhat</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

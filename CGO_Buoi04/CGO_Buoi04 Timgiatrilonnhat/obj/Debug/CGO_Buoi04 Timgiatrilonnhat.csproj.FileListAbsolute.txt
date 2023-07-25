@@ -1,0 +1,8 @@
+D:\Github\basicCsharp\CGO_Buoi04\CGO_Buoi04 Timgiatrilonnhat\bin\Debug\CGO_Buoi04 Timgiatrilonnhat.exe.config
+D:\Github\basicCsharp\CGO_Buoi04\CGO_Buoi04 Timgiatrilonnhat\bin\Debug\CGO_Buoi04 Timgiatrilonnhat.exe
+D:\Github\basicCsharp\CGO_Buoi04\CGO_Buoi04 Timgiatrilonnhat\bin\Debug\CGO_Buoi04 Timgiatrilonnhat.pdb
+D:\Github\basicCsharp\CGO_Buoi04\CGO_Buoi04 Timgiatrilonnhat\obj\Debug\CGO_Buoi04 Timgiatrilonnhat.csproj.AssemblyReference.cache
+D:\Github\basicCsharp\CGO_Buoi04\CGO_Buoi04 Timgiatrilonnhat\obj\Debug\CGO_Buoi04 Timgiatrilonnhat.csproj.SuggestedBindingRedirects.cache
+D:\Github\basicCsharp\CGO_Buoi04\CGO_Buoi04 Timgiatrilonnhat\obj\Debug\CGO_Buoi04 Timgiatrilonnhat.csproj.CoreCompileInputs.cache
+D:\Github\basicCsharp\CGO_Buoi04\CGO_Buoi04 Timgiatrilonnhat\obj\Debug\CGO_Buoi04 Timgiatrilonnhat.exe
+D:\Github\basicCsharp\CGO_Buoi04\CGO_Buoi04 Timgiatrilonnhat\obj\Debug\CGO_Buoi04 Timgiatrilonnhat.pdb
